@@ -1,3 +1,4 @@
+# Question 5: Accept Input
 userAge = int(input("Enter your age: "))
 
 userAge = userAge + 22
